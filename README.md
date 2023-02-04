@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themaharshpatel&label=Profile%20views&color=0e75b6&style=flat" alt="themaharshpatel" /> </p>
 
-- 🔭 I’m currently working on [QR-Check-In](https://github.com/themaharshpatel/QR-Check-In)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [github.com/themaharshpatel](github.com/themaharshpatel)
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **hey@maharshpatel.dev**
 
-- ⚡ Fun fact **A 2x RedHat certified making career in Android**
+- ⚡ Fun fact **A 2x RedHat certified making career in Java and Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
